@@ -1,0 +1,197 @@
+EFI\boot\bootx64.efi|C67EB7F180C46C7D1DCFE56F20AB76F4
+EFI\boot\ru-RU\bootx64.efi.mui|0266E4C5DEBC1231272016435AA765C9
+EFI\microsoft\boot\memtest.efi|BB5D5E5F542CEFD0D616F8C84397B27B
+EFI\microsoft\boot\ru-ru\memtest.efi.mui|2439543C3B61DE4A460F7AC83695AAD3
+JINN\data\8x16_866.psf|7D0CD71DB77356FCC5CECB25F5F6CD5A
+JINN\data\boot.sdi|22D9945B4AAE36DD59620A918F2E65F4
+JINN\data\boot.ttf|85815F46BFCAE2928D819AE1D7C9E642
+JINN\data\bootfix.bin|EB145D5F87DDF43C8BD6F27E97DB8BF2
+JINN\data\bootmain|B5814D758232F47477258D263824AE29
+JINN\data\grldr|85E8A397CA0972E7A1ECA828B9B053E3
+JINN\data\grldr.mbr|E7D4851A3578FCC656D0195F43651B0E
+JINN\data\jinn_skin|9D59426A902E5A879AE2DBDCEDAB82EF
+JINN\data\memtest.exe|AE2B16FDCC12B7CE92379F9DAEB05764
+JINN\data\segmono_boot.ttf|1B31D4F189A931499CBDCF40440A89EB
+JINN\data\segoen_slboot.ttf|6C65477F7152F0B308A624721F160685
+JINN\data\segoe_slboot.ttf|D87F34EE5AD1CE64104A5E8AB5D48473
+JINN\data\syslinux.cfg|D5FFC470CFF28B58382329664E1AF997
+JINN\data\syslinux.exe|E8CF415FEAB73F0ACE4CA1BE9B94C7EE
+JINN\data\TEXTFONT|60F7E9FFD263D6E4214360771830E32E
+JINN\data\wgl4_boot.ttf|85815F46BFCAE2928D819AE1D7C9E642
+JINN\data\xorboot.bin|57364A0E279F87D02BD4C13E865E9407
+JINN\data\Tools\bcdedit.exe|ABD373E82F6240031C1E631AA20711C7
+JINN\data\Tools\blank.iso|6DDDE8D9D8D55F25934040507F953679
+JINN\data\Tools\BootIce.exe|FDEABB5543E7CC20F429165E2FF2147C
+JINN\data\Tools\HDDaRTs.ima|E34CD41A5A5D032604CCEFF7D1D3E77C
+JINN\data\Tools\Memtest86-6.3.0.iso|1CD0CFCBD52049127CFEDDCA7BED54D3
+JINN\data\Tools\memtest86p.gz|8E80A2BC79D014DCB545FF1E857EAF5E
+JINN\data\Tools\rmpart.exe|AA2572E7B0B3F6FF62CA7CD2A52E44C5
+JINN\data\Tools\UltraISO\uikey.ini|7C1DB657E988CDEA4F415EA1E2C56976
+JINN\data\Tools\UltraISO\UltraISO.exe|3D9188661CB90E5AD51385BDF3201224
+JINN\data\Tools\UltraISO\UltraISO.ini|28E50DE506BFAD14ED5D67D5AF59FE5E
+JINN\data\Tools\UltraISO\lang\lang_ru.dll|36719F2FCBCA1F705DB37EBAC8959B67
+JINN\WinSetup\boot11x64.wim|1A212EF679BA38EE0BFD70E430D33DE8
+JINN\WinSetup\Tools\AutoInst_x64.exe|CE1F81CC04E7FDB90B9EC9CB66E8612B
+JINN\WinSetup\Tools\dc64cmd.exe|9528D0ED67E02EB9CD252F54293AB273
+JINN\WinSetup\Tools\JinnShell_x64.exe|C73CFF31FB3F712CED33ED9BECCCDB17
+JINN\WinSetup\Tools\PEPrograms\AcronisTrueImage\TrueImage_x64.exe|3C36E4EC58E06A3F34CDED8E82C70D4E
+JINN\WinSetup\Tools\PEPrograms\AutoRuns\AutoRuns_x64.exe|76B2EE9D84823FCEE561AA3440251B46
+JINN\WinSetup\Tools\PEPrograms\BootIce\BootIce_x64.exe|D1044CECE07E776B1F8EAAEB24778B80
+JINN\WinSetup\Tools\PEPrograms\BootIce\BootIce_x86.exe|FDEABB5543E7CC20F429165E2FF2147C
+JINN\WinSetup\Tools\PEPrograms\ParagonHardDiskManager\PHDM15_x64.exe|1C39927368FC6A99E05B582759482425
+JINN\WinSetup\Tools\PEPrograms\PasswordReset\PassReset_x64.exe|16A12C0A36B160C0DB32BCBFBECD72A9
+JINN\WinSetup\Tools\PEPrograms\ProduKey\x64\ProduKey.cfg|0C2C8ADC7DC1C8498F0BA4013B439542
+JINN\WinSetup\Tools\PEPrograms\ProduKey\x64\ProduKey.exe|A5660D680FCD5CDF351132685A0E5F14
+JINN\WinSetup\Tools\PEPrograms\ProduKey\x64\ProduKey_lng.ini|D0F556E1E3AB69A5FA82AF7070B3EDE5
+JINN\WinSetup\Tools\PEPrograms\RunScanner\x64\Regedit.cmd|2E612BD17BAC5E67D605F35344EA8B05
+JINN\WinSetup\Tools\PEPrograms\RunScanner\x64\RunScanner.exe|99A262A8CEA6F40186F92E36B1B2FE63
+JINN\WinSetup\Tools\PEPrograms\RunScanner\x64\RunScannerDLL64.dll|8BAA572C8CB3CCA31F1A3BCF8EB35387
+JINN\WinSetup\Tools\PEPrograms\SmartFix\SmartFix_x64.exe|2B4B544327B5D0053BE9522A55C75E6B
+JINN\WinSetup\Tools\PEPrograms\SmartFix\SmartFix_x86.exe|EDF9C969B00C9AC42F623C7BA0237DC3
+JINN\WinSetup\Tools\PEPrograms\TotalCommander\TotalCommander_x64.exe|219F3E161585CF7E7076B8AADFE48C52
+JINN\WinSetup\Tools\PEPrograms\WinNTSetup\WinNTSetup_x64.exe|8E9F087FA90F71163F75A654E6BA47A0
+JINN\WinSetup\Tools\setres.exe|4BCBF74750924143D96E3262073EF39F
+JINN\WinSetup\Tools\SetupLanguages\de-DE.ini|7F6ABF1C8A258D01FAD24E16EE4D43F3
+JINN\WinSetup\Tools\SetupLanguages\en-US.ini|3A5DD668D3DFE53564364E3C7628F919
+JINN\WinSetup\Tools\SetupLanguages\fr-FR.ini|4C31F2875766093F74375D9D380E1F62
+JINN\WinSetup\Tools\SetupLanguages\readme.txt|EC556B1B12C0DE68AFCCDBCCCE2FD492
+JINN\WinSetup\Tools\SetupLanguages\ru-RU.ini|85991EB8F594255AA283315B8D92E4D2
+JINN\WinSetup\Tools\SetupLanguages\uk-UA.ini|C78202335457B262521518DCD8216F74
+JINN\WinSetup\Tools\TaskStarter_x64.exe|E3A402C43E33599E76E683DD43B3225D
+JINN\WinSetup\Tools\WimLib\x64\libwim-15.dll|0C842A3116503E872251149F8A925A25
+JINN\WinSetup\Tools\WimLib\x64\wimlib-imagex.exe|F0DFF1B18F6137551954BE2DF650524D
+JINN\WinSetup\install11.esd|311ADFDC5ED17AB0EFF238923EF976CA
+JINN\WinSetup\office11.esd|12F3F16C60F1CFEC32CB1E2A52558E48
+JINN\WinSetup\office11a.esd|FA3CCFD5A67D0FC14A68FEB58B755555
+JINN\WinSetup\OEM\$OEM$\$$\Setup\Scripts\Activation\AAct\AAct_x64.exe|BC1A945F59614B8AFF246B99000866CD
+JINN\WinSetup\OEM\$OEM$\$$\Setup\Scripts\Activation\AAct\Активация Windows и Office (AAct activation).lnk|907FE5AA1006D640F88590AEA8C1D04C
+JINN\WinSetup\OEM\$OEM$\$$\Setup\Scripts\Activation\Activation.cmd|0D1940EAFABC34ADD34F2B9100C11FCF
+JINN\WinSetup\OEM\$OEM$\$$\Setup\Scripts\Activation\MSDM Key\ProduKey_x86.cfg|0C79A514A6F6519E145CD22FFB824804
+JINN\WinSetup\OEM\$OEM$\$$\Setup\Scripts\Activation\MSDM Key\ProduKey_x86.exe|56DC85AF8919B9BA5623621BAF6A4EC8
+JINN\WinSetup\OEM\$OEM$\$$\Setup\Scripts\Addons\StartMenu\Settings.reg|9C9234D26E578F69D04EB3705EAE422A
+JINN\WinSetup\OEM\$OEM$\$$\Setup\Scripts\Addons\StartMenu\StartIsBack.exe|6A6BCF9848FC7BFD3AD64BBB9996A19B
+JINN\WinSetup\OEM\$OEM$\$$\Setup\Scripts\Addons\StartMenu\StartMenu.cmd|0ECB01A11D45E1E98F2219A60E569182
+JINN\WinSetup\OEM\$OEM$\$$\Setup\Scripts\Addons\StartMenu\_About.txt|D62EF92AD154EF36A157BC383BED77EF
+JINN\WinSetup\OEM\$OEM$\$$\Setup\Scripts\Addons\StartMenu\Описание.txt|F3D0E3F6422B7010FD0DF3F5D9026138
+JINN\WinSetup\OEM\$OEM$\$$\Setup\Scripts\CheckProgs.cmd|91BA9807F4EDD5E7364674414524788D
+JINN\WinSetup\OEM\$OEM$\$$\Setup\Scripts\cmdow.exe|48A78BF8EF453D9CA4D6C0587AE2DE94
+JINN\WinSetup\OEM\$OEM$\$$\Setup\Scripts\hidcon.exe|7D45129EBFEEC0D8CDC90DE24C2D914D
+JINN\WinSetup\OEM\$OEM$\$$\Setup\Scripts\RootCertUpdater.exe|23394C5A6C44A38E2BCE6041E874B50B
+JINN\WinSetup\OEM\$OEM$\$$\Setup\Scripts\setres.exe|4BCBF74750924143D96E3262073EF39F
+JINN\WinSetup\OEM\$OEM$\$$\Setup\Scripts\Specialize.cmd|2AB636B0743A55B99C1BC7A860994E5F
+JINN\WinSetup\OEM\$OEM$\$$\Setup\Scripts\Tweaks\1. Tweaks for all OS.reg|065D7C21609D71CFF894B9A72DC38B66
+JINN\WinSetup\OEM\$OEM$\$$\Setup\Scripts\Tweaks\Skipped\Включение фикса Meltdown и Spectre KB4056892.reg|A7AAAB7E00D96A3CE9604D2F2C140877
+JINN\WinSetup\OEM\$OEM$\$$\Setup\Scripts\Tweaks\Skipped\Дата в трее ''число.месяц.год'' [Пн 21.10.13].reg|4B43F4DA7622485046E1A0647F9EAB65
+JINN\WinSetup\OEM\$OEM$\$$\Setup\Scripts\Tweaks\Skipped\Запретить Windows Update обновление драйверов.reg|766BDF921C65D65ADAC653BFC035EF6F
+JINN\WinSetup\OEM\$OEM$\$$\Setup\Scripts\Tweaks\Skipped\Настройка доступа и атрибутов в контекстном меню.reg|925C0FFBEBB9CC6ACCC4E1F3A593B830
+JINN\WinSetup\OEM\$OEM$\$$\Setup\Scripts\Tweaks\Skipped\Отключение фикса Meltdown и Spectre KB4056892.reg|D8621038E9245A5112CDEF6622D375B0
+JINN\WinSetup\OEM\$OEM$\$$\Setup\Scripts\Tweaks\UAC.reg|9C1D41E8B77E8FCBF6B524A240A9BA97
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\AppData\Roaming\Microsoft\Templates\Normal.dotm|6A9B04FA15D6278D1F2ECC2690B6DEF4
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\AppData\Roaming\Microsoft\Шаблоны\Normal.dotm|6A9B04FA15D6278D1F2ECC2690B6DEF4
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\1. Черный кот с рыбкой.jpg|A679D1EA22BFE52179AD3CB169247EDA
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\10. Цветы.jpg|67952A33F96BF04B0EFF045E7E19E8D0
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\11. Закат.jpg|005BDE5B283AA16AF228BD773B6B4776
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\12. Вода.jpg|5D8CDC0995CB70E426C3E8DE86CDCDF6
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\13. Камни.jpg|C23BEA40708F5F38965520A12D7CB579
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\14. Листва.jpg|FDC39FF623A926F61437402D9A23E828
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\15. Облака.jpg|0962F612A49E995984AD4AED2AF063AB
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\16. Город.jpg|A1B2957812A5A144C2B8F77AA251342D
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\17. Мост.jpg|1200A6003E9A79B8159EA663F52E7AC3
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\18. Замок Химэдзи.jpg|9D79B6CBF2892741B1C99BD0E12C5C13
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\19. Самолеты.jpg|933A28B59E16374D42E8CC8E55A7CF56
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\2. Хаски.jpg|A8FCCE8306812CF8498F539B688411E0
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\20. Карандаши.jpg|BF462CC2E5539C116C812847D92E5E4F
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\21. Горы.jpg|F795286225544E6445428695570AA9DC
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\22. Windows Logo.jpg|BA4EF57AB8F51DB8EAE50DAB11DBD498
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\23. Windows Logo 2.jpg|59E4A290A9004C98373763971F0CCEE1
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\24. Windows Logo 3.jpg|DA288DCEAAFD7C97F1B09C594EAC7868
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\25. Ромашки.jpg|EC17388F0FD2DBBF01889E13A6A5058D
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\26 . Цветущая яблоня.jpg|47B67D3A57291F7907DE1818991072A6
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\3. Леопард.jpg|DF51DA4C25263841890A85BF290B2128
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\4. Кот с наушниками.jpg|2B74321824C53093313E83A79F31207B
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\5. Белый тигренок.jpg|FDF835F024CC97F17FC256DAB7D68849
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\6. Жираф.jpg|701A65F0A510F30757DB4329288A9383
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\7. Бабочка.jpg|8A889315D0658DA2415477003D6068F4
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\8. Божья коровка.jpg|CAF1E754C25251EC2BA8CF0983388FF0
+JINN\WinSetup\OEM\$OEM$\$1\Users\Default\Pictures\Фоновые изображения рабочего стола\9. Пустыня.jpg|70359FF8F50745337DA29DB4A6E308C0
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Activation\Activation.cmd|7B59E4B7FD271962FCA6F70A2FDEFA5D
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Activation\Microsoft-Activation-Scripts-(MAS)\All-In-One-Version-KL\MAS_AIO.cmd|AA378FAB3084F1BBB2BB73F96ACFDB08
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Activation\Microsoft-Activation-Scripts-(MAS)\Separate-Files-Version\Activators\HWID_Activation.cmd|CCE194C4280F748A8B0E9ED41547376B
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Activation\Microsoft-Activation-Scripts-(MAS)\Separate-Files-Version\Activators\KMS38_Activation.cmd|9E088080EFA90FCF81EA485C54EF18FF
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Activation\Microsoft-Activation-Scripts-(MAS)\Separate-Files-Version\Activators\KMS38_Activation_auto.cmd|A0C0E1588DEBDF30B41A36E669604BEE
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Activation\Microsoft-Activation-Scripts-(MAS)\Separate-Files-Version\Activators\Ohook_Activation_AIO.cmd|8D32C6AA965D15876377646233BB877A
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Activation\Microsoft-Activation-Scripts-(MAS)\Separate-Files-Version\Activators\Ohook_Activation_AIO_auto.cmd|2BFC6ED4111833FB931BC3E80E1809DC
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Activation\Microsoft-Activation-Scripts-(MAS)\Separate-Files-Version\Activators\Online_KMS_Activation.cmd|33109E7FB7EDEA915B4ED470A8D8B6C0
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Activation\Microsoft-Activation-Scripts-(MAS)\Separate-Files-Version\Activators\ReadMe.txt|B7FA33165116723BC2F83676FD62CC69
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Activation\Microsoft-Activation-Scripts-(MAS)\Separate-Files-Version\Change_Office_Edition.cmd|6D178A37EF202B616DF131F81D6FFAC3
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Activation\Microsoft-Activation-Scripts-(MAS)\Separate-Files-Version\Change_Windows_Edition.cmd|38035CDB3A139188007EE389EA86F450
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Activation\Microsoft-Activation-Scripts-(MAS)\Separate-Files-Version\Check_Activation_Status.cmd|1EBF95A85EEC40BAB2045BD26658A345
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Activation\Microsoft-Activation-Scripts-(MAS)\Separate-Files-Version\Extract_OEM_Folder.cmd|7A7A1E02B59C63494C15487744D0781D
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Activation\Microsoft-Activation-Scripts-(MAS)\Separate-Files-Version\Troubleshoot.cmd|59CAE5412898B564652AF61C3EA68BB4
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Activation\Microsoft-Activation-Scripts-(MAS)\Separate-Files-Version\_ReadMe.html|574E18C1F9B32A47F988AC91588901BA
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Activation\W10DigitalActivation.exe|E28096694131318D388E9D23938E477C
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Activation\W10DigitalActivation_x64.exe|A6178341A57C1D05DB2E5F52C4C8FC4A
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Addons\AntiSpy\O&O ShutUp10 (отключение шпионских функций AntiSpy).lnk|79BEF065C47BB1AB7E624A614E41E6BF
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Addons\AntiSpy\O&O ShutUp10.exe|4803E06DB91FDB8B6D1B65C0010D2F87
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Addons\AntiSpy\ooshutup10.cfg|FD4DD2ACE95EE4B2B3719C5A44224796
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Addons\DefenderControl\Add-SecurityHealth-to-AutoStart.cmd|A3C18D66553622E4E307DA16DD0291D7
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Addons\DefenderControl\DefenderControl.exe|58008524A6473BDF86C1040A9A9E39C3
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Addons\DefenderControl\DefenderControl.ini|8CB6C564DC53207C90224603EDF92C43
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Addons\DefenderControl\RunAsTI_x64.exe|4020D8028FD75D0D668E7A626ADD215C
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Addons\DefenderControl\RunAsTI_x86.exe|DB3C3C8B4E1FC38229B11851CB6CEC23
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Addons\DefenderControl\WindowsDefender_disable.cmd|41A60CFBF697728BC694FB1BB7E6358B
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Addons\DefenderControl\WindowsDefender_enable.cmd|C6248268587DFFC3F9BE61E0774F5300
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Addons\DefenderControl\Защитник Windows - вкл-выкл.lnk|4D46E303C7C6A2FF61D0258FA38DB3EB
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Addons\OldCalculator.exe|B5648913E12F4E89CB997C6B1971F91C
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Addons\OldNewExplorer\Install.cmd|43C8EF518C37A71E1BC9760F42456E11
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Addons\OldNewExplorer\OldNewExplorer32.dll|A72E302C3F4E4DC8EAA365592AEF97C8
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Addons\OldNewExplorer\OldNewExplorer64.dll|FCF194E3B9101064939A000075149F29
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Addons\OldNewExplorer\OldNewExplorerCfg.exe|C0C6230EE05F7BBED58A0F5FECAEA27E
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Addons\OldNewExplorer\readme.txt|7E6713D44D8198E19BBBC17304B88A32
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Addons\OldNewExplorer\Settings.reg|04FFFEFC83EF0F24643471183DA848BE
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Addons\OldNewExplorer\Настройка OldNewExplorer.lnk|59FB32DEFD648701D90CFB2057835A1F
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Addons\WindowsUpdateBlocker\ReadMe.txt|E5316699929D6736E9C0C3B638EC8C2A
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Addons\WindowsUpdateBlocker\update_on_off.ico|F95A0D0AFDAC5673978DD17ADF30CCFA
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Addons\WindowsUpdateBlocker\Wub.exe|82AFF8883099CF75462057C4E47E88AC
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Addons\WindowsUpdateBlocker\Wub.ini|A16BF55CD2EF7D9E56565B0ED1AA208A
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Addons\WindowsUpdateBlocker\Wub_x64.exe|9D6778F7F274F7ECD4E7E875A7268B64
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Addons\WindowsUpdateBlocker\Обновления Windows - вкл-выкл.lnk|3FB796620019D947D6EAB8D877C7B1B6
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\DesktopCommands.cmd|17219830B80D7C180F239D0967890576
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\MaintenanceUninstalledSystemApps-Lite.xml|4D4379E7F14DCD80008927EDA6A1AE7D
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\MaintenanceUninstalledSystemApps.xml|F5F1C78FFAA591FF7397E94B4145419C
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\SetupComplete.cmd|AE0F1F8A4448C688DF194CED7FAD3737
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\StartMenu-Layout-Lite.xml|1684C417F0CC486C7F4F4BC98B3DDB0B
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\StartMenu-Layout.xml|A20EFD27767BA8F5C0FC32A365181D57
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Tweaks\2. Tweaks only for 10.reg|B3BA84DF10BF82505229A78350E039A6
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Tweaks\Edge HideFirstRunExperience.reg|427A7719AB1AD96FB11FD23836AA14A9
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Tweaks\Skipped\Delete folders from 'This PC' x64.reg|D74725D70AFA8FBA6035228A12BE8BCF
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Tweaks\Skipped\Turn Off GameDVR (откл. Игровую панель).reg|C97EDE2021BFE38F0A7E33F11574FAA1
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Tweaks\Skipped\UAC.reg|CA035438BE3BA64F111B7B09437B17E9
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Tweaks\Skipped\Восстановить стандартный просмотрщик фото.reg|0D0B6D1D1253834F1565D7E352D26BC3
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Tweaks\Skipped\Откл. Центр уведомлений.reg|31350D6E760C129F37624AA11224C74C
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Tweaks\Skipped\Отключить OneDrive.reg|A0A5A797A049DDC2D70F0B5752A52372
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Tweaks\Skipped\Убрать поиск с панели задач.reg|68E475D62D936C296F123BD9F472B11B
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Tweaks\UAC.reg|928A5EFB1DDD0CF1A274CB5A15D655E1
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Tweaks\Добавить пункт ''Параметры установки устройств''.reg|FAEF7332CE4D0F33162F13053E6FE921
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Tweaks\Иконка диспетчера устройств в меню ''Этот компьютер''.reg|393BFD92F039FF030413B91422B0259C
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Tweaks\Отключить оповещения об отключенном SmartScreen и др.reg|8D565EE60B3246CCFD686DF9FA8A485B
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Tweaks\Убрать кнопку ''Люди'' с панели задач.reg|2B2ABCF7D202DE6041262DCAF2F60C78
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Tweaks\Убрать кнопку ''Провести собрание'' с панели задач.reg|2A3268AA83E7EBAED4D2D1111FE492AF
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Tweaks\Убрать мини-приложения с панели задач.reg|B04C1550803D024A613B23B1B5CB70F9
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Tweaks\Убрать погоду и новости с панели задач.reg|A0C246730778FC25EA9F67D703450952
+JINN\WinSetup\OEM\10_$OEM$\$$\Setup\Scripts\Tweaks\Убрать чат панели задач.reg|0C8F2A2FC36C07D59387AA4E4AB8C166
+JINN\WinSetup\OEM\11_$OEM$\$$\Setup\Scripts\Addons\AntiSpy\ooshutup10.cfg|6DA52BDD3152EC0E70B4CA2A448677AE
+JINN\WinSetup\OEM\11_$OEM$\$$\Setup\Scripts\Addons\StartMenu\StartMenu.cmd|A24D56DDBFFCE3D9342E38AC8CC17724
+JINN\WinSetup\OEM\11_$OEM$\$$\Setup\Scripts\Addons\StartMenu\UpdateCheck.exe|F9756C261AA978C787302DEBFF8F142A
+JINN\WinSetup\OEM\11_$OEM$\$$\Setup\Scripts\DesktopCommands.cmd|C7AC287669728C24F7BEAC353DB375C0
+JINN\WinSetup\OEM\11_$OEM$\$$\Setup\Scripts\SetupComplete.cmd|9DF00D12570DDEDB27AF9D184EF8E6A1
+JINN\WinSetup\OEM\11_$OEM$\$$\Setup\Scripts\StartMenu-Layout-Lite.bin|0FC1D512E53B72E8FDAB2B42E924B207
+JINN\WinSetup\OEM\11_$OEM$\$$\Setup\Scripts\StartMenu-Layout.bin|0FC1D512E53B72E8FDAB2B42E924B207
+JINN\WinSetup\OEM\11_$OEM$\$$\Setup\Scripts\Tweaks\SmartAppControlDisable.reg|631D6D2E7D235E53487B9549B7072C20
+JINN\WinSetup\OEM\11_$OEM$\$$\Setup\Scripts\Tweaks\Убрать кнопку ''Провести собрание'' с панели задач.reg|2A3268AA83E7EBAED4D2D1111FE492AF
+JINN\WinSetup\OEM\11_$OEM$\$$\Setup\Scripts\Tweaks\Убрать кнопку ''Пуск'' из центра влево.reg|68AA182D08FA106BE433CBAF7588EDC0
+JINN\WinSetup\OEM\11_$OEM$\$$\Setup\Scripts\Tweaks\Убрать мини-приложения с панели задач.reg|B04C1550803D024A613B23B1B5CB70F9
+JINN\WinSetup\OEM\11_$OEM$\$$\Setup\Scripts\Tweaks\Убрать погоду и новости с панели задач.reg|A0C246730778FC25EA9F67D703450952
+JINN\WinSetup\OEM\11_$OEM$\$$\Setup\Scripts\Tweaks\Убрать поиск с панели задач.reg|68E475D62D936C296F123BD9F472B11B
+JINN\WinSetup\OEM\11_$OEM$\$$\Setup\Scripts\Tweaks\Убрать чат с панели задач.reg|0C8F2A2FC36C07D59387AA4E4AB8C166
+JINN\Сменить загрузчик флешки.exe|5D843911AA71EA1CE9D5FC266E17F828

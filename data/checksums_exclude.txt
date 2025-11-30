@@ -1,0 +1,3 @@
+AntiVir\DrWeb\drweb\drweb32.dll
+AntiVir\DrWeb\drweb\timestamp
+AntiVir\DrWeb\drweb\version.lst

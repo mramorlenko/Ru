@@ -1,0 +1,109 @@
+timeout 20
+gfxmenu /JINN/data/jinn_skin
+
+iftitle [if "%@root%"=="(cd)"] Продолжить загрузку с жесткого диска
+root (hd0,0)
+chainloader +1
+
+iftitle [if not "%@root%"=="(cd)"] Продолжить загрузку с жесткого диска
+find --set-root --ignore-floppies --ignore-cd /bootmgr || find --set-root --ignore-floppies --ignore-cd /ntldr
+map (hd0) (hd1)
+map (hd1) (hd0)
+map --hook
+rootnoverify (hd0)
+chainloader (hd0)+1
+
+iftitle [if exist /JINN/data/bootmain] Установка Windows
+chainloader /JINN/data/bootmain
+
+iftitle [if not exist /SSTR/menu.lst && if exist /JINN/data/Tools/Memtest86-6.3.0.iso] MemTest86 (PassMark)
+find --set-root --ignore-floppies /JINN/data/Tools/Memtest86-6.3.0.iso
+map --mem /JINN/data/Tools/Memtest86-6.3.0.iso (0xff)
+map --hook
+chainloader (0xff)
+
+iftitle [if exist /JINN/data/tools/HDDaRTs.ima] HDDaRTs (HDD Diagnostic and Repair in MS-DOS)
+find --set-root /JINN/data/tools/HDDaRTs.ima
+map --mem --read-only /JINN/data/tools/HDDaRTs.ima (fd0)
+map --hook
+chainloader (fd0)+1
+rootnoverify (fd0)
+map --floppies=1
+
+#iftitle [if exist /BOOTMGR] Установка Windows NT6 (BOOTMGR в корне USB-накопителя)
+#chainloader /BOOTMGR
+
+#title [if exist /JINN/data/bootmain] Установка Windows XP (Пользовательская версия)
+#configfile /winsetup.lst
+
+title
+#iftitle [if exist /JINN/Linux/PartedMagic/pmagic/initrd.img] Parted Magic
+#kernel /JINN/Linux/PartedMagic/pmagic/bzimage eject=no boot=live nouveau.modeset=0 timeconfig=3 directory=/JINN/Linux/PartedMagic/pmagic/..
+#initrd /JINN/Linux/PartedMagic/pmagic/initrd.img /JINN/Linux/PartedMagic/pmagic/fu.img /JINN/Linux/PartedMagic/pmagic/m.img
+
+#Загрузка *.wim-файла (boot.wim)
+#iftitle [if exist /JINN/WinSetup/boot10x64.wim] WimBoot
+#uuid ()
+#kernel /EFI/boot/ntloader uuid=%?_UUID% file=/JINN/WinSetup/boot10x64.wim
+#initrd /EFI/boot/initrd.lz1
+
+#iftitle [if exist /JINN/Linux/Ubuntu-21.04-Desktop-AMD64/casper/initrd] Ubuntu
+#kernel	/JINN/Linux/Ubuntu-21.04-Desktop-AMD64/casper/vmlinuz  live-media-path=/JINN/Linux/Ubuntu-21.04-Desktop-AMD64/casper/ persistent persistent-path=/JINN/Linux/Ubuntu-21.04-Desktop-AMD64/ cdrom-detect/try-usb=true noprompt floppy.allowed_drive_mask=0 ignore_uuid preseed/file=/JINN/Linux/Ubuntu-21.04-Desktop-AMD64/preseed/ubuntu.seed maybe-ubiquity quiet splash ---
+#initrd	/JINN/Linux/Ubuntu-21.04-Desktop-AMD64/casper/initrd
+
+#iftitle [if exist /JINN/Linux/Fedora-Workstation-Live-x86_64-34-1.2/images/pxeboot/initrd.img] Fedora
+#uuid ()
+#kernel /JINN/Linux/Fedora-Workstation-Live-x86_64-34-1.2/images/pxeboot/vmlinuz root=live:UUID=%?_UUID%  rd.live.image rd.live.dir=/JINN/Linux/Fedora-Workstation-Live-x86_64-34-1.2/LiveOS quiet
+#initrd /JINN/Linux/Fedora-Workstation-Live-x86_64-34-1.2/images/pxeboot/initrd.img
+
+#iftitle [if exist /JINN/Linux/CentOS-8.4.2105-x86_64-DVD1/images/pxeboot/initrd.img] CentOS
+#uuid ()
+#kernel /JINN/Linux/CentOS-8.4.2105-x86_64-DVD1/images/pxeboot/vmlinuz inst.repo=hd:UUID=%?_UUID%:/JINN/Linux/CentOS-8.4.2105-x86_64-DVD1 inst.stage2=hd:UUID=%?_UUID%:/JINN/Linux/CentOS-8.4.2105-x86_64-DVD1 quiet
+#initrd /JINN/Linux/CentOS-8.4.2105-x86_64-DVD1/images/pxeboot/initrd.img
+
+#iftitle [if exist /JINN/Linux/ArchLinux-2021.07.01-x86_64/arch/boot/x86_64/initramfs-linux.img] Arch Linux
+#uuid ()
+#kernel /JINN/Linux/archlinux-2021.07.01-x86_64/arch/boot/x86_64/vmlinuz-linux archisobasedir=/JINN/Linux/archlinux-2021.07.01-x86_64/arch archisodevice=/dev/disk/by-uuid/%?_UUID%
+#initrd /JINN/Linux/archlinux-2021.07.01-x86_64/arch/boot/intel-ucode.img /JINN/Linux/archlinux-2021.07.01-x86_64/arch/boot/amd-ucode.img /JINN/Linux/archlinux-2021.07.01-x86_64/arch/boot/x86_64/initramfs-linux.img
+
+#iftitle [if exist /JINN/Linux/RHEL-8.4-x86_64-DVD/images/pxeboot/initrd.img] Red Hat
+#uuid ()
+#kernel /JINN/Linux/RHEL-8.4-x86_64-DVD/images/pxeboot/vmlinuz inst.repo=hd:UUID=%?_UUID%:/JINN/Linux/RHEL-8.4-x86_64-DVD inst.stage2=hd:UUID=%?_UUID%:/JINN/Linux/RHEL-8.4-x86_64-DVD quiet
+#initrd /JINN/Linux/RHEL-8.4-x86_64-DVD/images/pxeboot/initrd.img
+
+# В некоторых Debian-системах (Debian, Kali Linux) установщик может ругаться, что в CDROM не найдены файлы. Чтобы это исправить,
+# необходимо примонтировать папку c распакованным ISO в /cdrom следующим образом:
+# во время установки нажать CTRL+ALT+F2, нажать Enter, откроется консоль.
+# Ввести команду "blkid" и посмотреть, на каком устройстве находится мультизагрузочная флешка. Например она на /dev/sdb1.
+# Тогда выполнить:
+# 
+# mkdir /cdrom
+# mount -t vfat /dev/sdb1 /media
+# mount --bind /media/jinn/linux/Debian*/ /cdrom		("Debian" с БОЛЬШОЙ буквы!)
+# или
+# mount --bind /media/jinn/linux/Kali*/ /cdrom			("Kali" с БОЛЬШОЙ буквы!)
+#
+# Затем нажать CTRL+ALT+F5 и выбрать повторную проверку файлов в CDROM
+
+#iftitle [if exist /JINN/Linux/Debian-10.10.0-AMD64-XFCE-CD-1/install.amd/gtk/initrd.gz] Debian
+#kernel /JINN/Linux/Debian-10.10.0-AMD64-XFCE-CD-1/install.amd/vmlinuz desktop=xfce vga=788 --- quiet 
+#initrd /JINN/Linux/Debian-10.10.0-AMD64-XFCE-CD-1/install.amd/gtk/initrd.gz
+
+# Для Live-образа Kali Linux возможно будет необходимо скопировать папку JINN\Linux\Kali-Linux-2021.2-Live-AMD64\dists\kali-last-snapshot в папку JINN\Linux\Kali-Linux-2021.2-Live-AMD64\dists\kali-rolling
+#iftitle [if exist /JINN/Linux/Kali-Linux-2021.2-Live-AMD64/live/initrd.img-5.10.0-kali7-amd64] Kali Linux Live
+#kernel /JINN/Linux/Kali-Linux-2021.2-Live-AMD64/live/vmlinuz-5.10.0-kali7-amd64 boot=live live-media-path=/JINN/Linux/Kali-Linux-2021.2-Live-AMD64/live components quiet splash noeject 
+#initrd	/JINN/Linux/Kali-Linux-2021.2-Live-AMD64/live/initrd.img-5.10.0-kali7-amd64
+
+#iftitle [if exist /JINN/Linux/Kali-Linux-2021.2-Live-AMD64/install/gtk/initrd.gz] Kali Linux Installer
+#uuid ()
+#kernel /JINN/Linux/Kali-Linux-2021.2-Live-AMD64/install/gtk/vmlinuz vga=788 net.ifnames=0 --- quiet
+#initrd /JINN/Linux/Kali-Linux-2021.2-Live-AMD64/install/gtk/initrd.gz
+
+title
+configfile /JINN/data/menu.lst
+
+title Перезагрузить ПК
+reboot
+
+title Выключить ПК
+halt
